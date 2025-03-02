@@ -129,3 +129,762 @@
 [2025-02-26 15:16:56,951: INFO: data_transformation: Data Transformation process completed successfully]
 [2025-02-26 15:16:57,084: INFO: main: Completed data_transformation pipeline]
 [2025-02-26 15:16:57,085: INFO: main: Logging is done]
+[2025-02-27 18:39:56,676: INFO: config: PyTorch version 2.6.0 available.]
+[2025-02-27 18:54:53,856: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 18:54:53,873: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 18:54:53,878: INFO: common: created directory at: artifacts]
+[2025-02-27 18:55:29,017: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 18:55:29,026: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 18:55:29,031: INFO: common: created directory at: artifacts]
+[2025-02-27 18:58:42,135: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 18:58:42,152: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 18:58:42,159: INFO: common: created directory at: artifacts]
+[2025-02-27 19:00:26,948: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 19:00:26,959: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 19:00:26,965: INFO: common: created directory at: artifacts]
+[2025-02-27 19:00:26,970: INFO: common: created directory at: artifacts/model_trainer]
+[2025-02-27 19:17:43,537: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 19:17:43,550: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 19:17:43,555: INFO: common: created directory at: artifacts]
+[2025-02-27 19:17:43,561: INFO: common: created directory at: artifacts/model_trainer]
+[2025-02-27 19:20:56,774: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 19:20:56,787: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 19:20:56,793: INFO: common: created directory at: artifacts]
+[2025-02-27 19:20:56,799: INFO: common: created directory at: artifacts/model_trainer]
+[2025-02-27 19:46:16,902: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 19:46:16,915: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 19:46:16,920: INFO: common: created directory at: artifacts]
+[2025-02-27 19:46:16,926: INFO: common: created directory at: artifacts/model_trainer]
+[2025-02-27 19:48:16,754: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 19:48:16,768: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 19:48:16,773: INFO: common: created directory at: artifacts]
+[2025-02-27 19:48:16,778: INFO: common: created directory at: artifacts/model_trainer]
+[2025-02-27 19:49:32,121: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 19:49:32,131: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 19:49:32,136: INFO: common: created directory at: artifacts]
+[2025-02-27 19:49:32,143: INFO: common: created directory at: artifacts/model_trainer]
+[2025-02-27 19:49:58,016: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 19:49:58,027: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 19:49:58,033: INFO: common: created directory at: artifacts]
+[2025-02-27 19:49:58,037: INFO: common: created directory at: artifacts/model_trainer]
+[2025-02-27 19:52:12,866: INFO: config: PyTorch version 2.6.0 available.]
+[2025-02-27 19:52:17,917: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 19:52:17,930: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 19:52:17,935: INFO: common: created directory at: artifacts]
+[2025-02-27 19:52:17,939: INFO: common: created directory at: artifacts/model_trainer]
+[2025-02-27 19:59:19,881: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 19:59:19,900: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 19:59:19,906: INFO: common: created directory at: artifacts]
+[2025-02-27 19:59:19,911: INFO: common: created directory at: artifacts/model_trainer]
+[2025-02-27 20:43:49,723: INFO: config: PyTorch version 2.6.0 available.]
+[2025-02-27 20:43:53,893: INFO: main: Initiating data_ingestion pipeline]
+[2025-02-27 20:43:53,902: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 20:43:53,909: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 20:43:53,910: INFO: common: created directory at: artifacts]
+[2025-02-27 20:43:53,912: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-02-27 20:43:53,913: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip]
+[2025-02-27 20:43:54,274: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-02-27 20:43:54,275: INFO: stage_1_pipelinedataIngestion: Data Ingestion process completed successfully]
+[2025-02-27 20:43:54,275: INFO: main: Completed data_ingestion pipeline]
+[2025-02-27 20:43:54,276: INFO: main: Logging is done]
+[2025-02-27 20:43:54,277: INFO: main: Initiating data_transformation pipeline]
+[2025-02-27 20:43:54,285: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 20:43:54,292: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 20:43:54,294: INFO: common: created directory at: artifacts]
+[2025-02-27 20:43:54,296: INFO: common: created directory at: artifacts/data_transformation]
+[2025-02-27 20:43:58,931: INFO: data_transformation: Data Transformation process completed successfully]
+[2025-02-27 20:43:59,067: INFO: main: Completed data_transformation pipeline]
+[2025-02-27 20:43:59,068: INFO: main: Logging is done]
+[2025-02-27 20:43:59,069: INFO: main: Initiating model_training pipeline]
+[2025-02-27 20:43:59,070: INFO: stage_3_pipelinemodeltraining: Pipeline stage 3: Model Training Initiated]
+[2025-02-27 20:43:59,077: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 20:43:59,084: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 20:43:59,086: INFO: common: created directory at: artifacts]
+[2025-02-27 20:43:59,089: INFO: common: created directory at: artifacts/model_trainer]
+[2025-02-27 20:44:19,095: ERROR: stage_3_pipelinemodeltraining: Pipeline stage 3: Model Training Failed: Directory artifacts/data_transformation/samsum_dataset not found]
+[2025-02-27 20:44:19,096: ERROR: main: Failed to execute model_training pipeline]
+[2025-02-27 20:44:19,096: ERROR: main: Pipeline stage 3: Model Training Failed: Directory artifacts/data_transformation/samsum_dataset not found]
+[2025-02-27 20:44:19,197: INFO: main: Logging is done]
+[2025-02-27 20:48:55,672: INFO: config: PyTorch version 2.6.0 available.]
+[2025-02-27 20:49:00,044: INFO: main: Initiating data_ingestion pipeline]
+[2025-02-27 20:49:00,053: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 20:49:00,062: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 20:49:00,064: INFO: common: created directory at: artifacts]
+[2025-02-27 20:49:00,066: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-02-27 20:49:00,066: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip]
+[2025-02-27 20:49:00,416: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-02-27 20:49:00,417: INFO: stage_1_pipelinedataIngestion: Data Ingestion process completed successfully]
+[2025-02-27 20:49:00,417: INFO: main: Completed data_ingestion pipeline]
+[2025-02-27 20:49:00,417: INFO: main: Logging is done]
+[2025-02-27 20:49:00,418: INFO: main: Initiating data_transformation pipeline]
+[2025-02-27 20:49:00,426: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 20:49:00,433: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 20:49:00,436: INFO: common: created directory at: artifacts]
+[2025-02-27 20:49:00,438: INFO: common: created directory at: artifacts/data_transformation]
+[2025-02-27 20:49:04,120: INFO: data_transformation: Data Transformation process completed successfully]
+[2025-02-27 20:49:04,244: INFO: main: Completed data_transformation pipeline]
+[2025-02-27 20:49:04,245: INFO: main: Logging is done]
+[2025-02-27 20:49:04,246: INFO: main: Initiating model_training pipeline]
+[2025-02-27 20:49:04,246: INFO: stage_3_pipelinemodeltraining: Pipeline stage 3: Model Training Initiated]
+[2025-02-27 20:49:04,256: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 20:49:04,265: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 20:49:04,267: INFO: common: created directory at: artifacts]
+[2025-02-27 20:49:04,268: INFO: common: created directory at: artifacts/model_trainer]
+[2025-02-27 20:49:21,995: ERROR: stage_3_pipelinemodeltraining: Pipeline stage 3: Model Training Failed: Directory artifacts/data_transformation/samsum_dataset not found]
+[2025-02-27 20:49:21,996: ERROR: main: Failed to execute model_training pipeline]
+[2025-02-27 20:49:21,997: ERROR: main: Pipeline stage 3: Model Training Failed: Directory artifacts/data_transformation/samsum_dataset not found]
+[2025-02-27 20:49:22,102: INFO: main: Logging is done]
+[2025-02-27 21:24:10,503: INFO: config: PyTorch version 2.6.0 available.]
+[2025-02-27 21:24:17,438: INFO: main: Initiating data_ingestion pipeline]
+[2025-02-27 21:24:17,453: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 21:24:17,468: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 21:24:17,471: INFO: common: created directory at: artifacts]
+[2025-02-27 21:24:17,473: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-02-27 21:24:23,003: INFO: data_ingestion: File downloaded at artifacts/data_ingestion/data.zip]
+[2025-02-27 21:24:23,423: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-02-27 21:24:23,424: INFO: stage_1_pipelinedataIngestion: Data Ingestion process completed successfully]
+[2025-02-27 21:24:23,425: INFO: main: Completed data_ingestion pipeline]
+[2025-02-27 21:24:23,426: INFO: main: Logging is done]
+[2025-02-27 21:24:23,427: INFO: main: Initiating data_transformation pipeline]
+[2025-02-27 21:24:23,437: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 21:24:23,445: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 21:24:23,447: INFO: common: created directory at: artifacts]
+[2025-02-27 21:24:23,449: INFO: common: created directory at: artifacts/data_transformation]
+[2025-02-27 21:24:43,311: INFO: data_transformation: Data Transformation process completed successfully]
+[2025-02-27 21:24:43,483: INFO: main: Completed data_transformation pipeline]
+[2025-02-27 21:24:43,484: INFO: main: Logging is done]
+[2025-02-27 21:24:43,485: INFO: main: Initiating model_training pipeline]
+[2025-02-27 21:24:43,485: INFO: stage_3_pipelinemodeltraining: Pipeline stage 3: Model Training Initiated]
+[2025-02-27 21:24:43,495: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 21:24:43,505: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 21:24:43,508: INFO: common: created directory at: artifacts]
+[2025-02-27 21:24:43,512: INFO: common: created directory at: artifacts/model_trainer]
+[2025-02-27 21:25:02,847: ERROR: stage_3_pipelinemodeltraining: Pipeline stage 3: Model Training Failed: Directory artifacts/data_transformation/samsum_dataset not found]
+[2025-02-27 21:25:02,847: ERROR: main: Failed to execute model_training pipeline]
+[2025-02-27 21:25:02,848: ERROR: main: Pipeline stage 3: Model Training Failed: Directory artifacts/data_transformation/samsum_dataset not found]
+[2025-02-27 21:25:02,941: INFO: main: Logging is done]
+[2025-02-27 21:29:06,783: INFO: config: PyTorch version 2.6.0 available.]
+[2025-02-27 21:29:11,785: INFO: main: Initiating data_ingestion pipeline]
+[2025-02-27 21:29:11,795: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 21:29:11,801: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 21:29:11,804: INFO: common: created directory at: artifacts]
+[2025-02-27 21:29:11,807: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-02-27 21:29:17,850: INFO: data_ingestion: File downloaded at artifacts/data_ingestion/data.zip]
+[2025-02-27 21:29:18,385: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-02-27 21:29:18,386: INFO: stage_1_pipelinedataIngestion: Data Ingestion process completed successfully]
+[2025-02-27 21:29:18,387: INFO: main: Completed data_ingestion pipeline]
+[2025-02-27 21:29:18,387: INFO: main: Logging is done]
+[2025-02-27 21:29:18,389: INFO: main: Initiating data_transformation pipeline]
+[2025-02-27 21:29:18,397: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 21:29:18,414: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 21:29:18,416: INFO: common: created directory at: artifacts]
+[2025-02-27 21:29:18,423: INFO: common: created directory at: artifacts/data_transformation]
+[2025-02-27 21:29:41,135: INFO: main: Completed data_transformation pipeline]
+[2025-02-27 21:29:41,137: INFO: main: Logging is done]
+[2025-02-27 21:29:41,137: INFO: main: Initiating model_training pipeline]
+[2025-02-27 21:29:41,139: INFO: stage_3_pipelinemodeltraining: Pipeline stage 3: Model Training Initiated]
+[2025-02-27 21:29:41,146: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-02-27 21:29:41,157: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-02-27 21:29:41,159: INFO: common: created directory at: artifacts]
+[2025-02-27 21:29:41,163: INFO: common: created directory at: artifacts/model_trainer]
+[2025-03-01 18:23:29,954: INFO: config: PyTorch version 2.6.0 available.]
+[2025-03-01 18:30:51,865: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 18:30:51,890: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 18:30:51,898: INFO: common: created directory at: artifacts]
+[2025-03-01 18:30:51,903: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-01 18:31:09,619: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 18:31:09,644: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 18:31:09,651: INFO: common: created directory at: artifacts]
+[2025-03-01 18:31:09,655: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-01 18:33:34,083: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 18:33:34,095: INFO: common: yaml file: c:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 18:33:34,100: INFO: common: created directory at: artifacts]
+[2025-03-01 18:33:34,105: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-01 18:35:51,742: INFO: config: PyTorch version 2.6.0 available.]
+[2025-03-01 18:35:56,998: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 18:35:57,009: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 18:35:57,018: INFO: common: created directory at: artifacts]
+[2025-03-01 18:35:57,024: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-01 18:53:23,836: INFO: server: Started server process [12256]]
+[2025-03-01 18:53:23,839: INFO: on: Waiting for application startup.]
+[2025-03-01 18:53:23,842: INFO: on: Application startup complete.]
+[2025-03-01 18:53:23,846: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2025-03-01 18:55:11,329: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 18:55:11,341: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 18:55:11,344: INFO: common: created directory at: artifacts]
+[2025-03-01 18:55:11,346: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-01 18:55:11,352: ERROR: h11_impl: Exception in ASGI application
+]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'tokenizers_path'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'tokenizers_path'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'tokenizers_path'. Did you mean: 'tokenizer_path'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'tokenizers_path'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'tokenizers_path'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'tokenizers_path'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'tokenizers_path'. Did you mean: 'tokenizer_path'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 404, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\middleware\errors.py", line 184, in __call__
+    raise exc
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\middleware\errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\exceptions.py", line 93, in __call__
+    raise exc
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 65, in app
+    response = await func(request)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Fythonn\fyt\Main\Project_4\app.py", line 40, in predict_route
+    raise e
+  File "C:\Fythonn\fyt\Main\Project_4\app.py", line 36, in predict_route
+    obj = PredictionPipeline()
+  File "C:\Fythonn\fyt\Main\Project_4\src\textSummarizer\pipeline\prediction_pipeline.py", line 7, in __init__
+    self.config = ConfigurationManager().get_model_evaluation_config()
+  File "C:\Fythonn\fyt\Main\Project_4\src\textSummarizer\config\configuration.py", line 74, in get_model_evaluation_config
+    tokenizers_path = Path(config.tokenizers_path),
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'tokenizers_path'". Did you mean: 'tokenizer_path'?
+[2025-03-01 18:55:34,810: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 18:55:34,819: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 18:55:34,821: INFO: common: created directory at: artifacts]
+[2025-03-01 18:55:34,823: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-01 18:55:34,827: ERROR: h11_impl: Exception in ASGI application
+]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'tokenizers_path'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'tokenizers_path'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'tokenizers_path'. Did you mean: 'tokenizer_path'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'tokenizers_path'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'tokenizers_path'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'tokenizers_path'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'tokenizers_path'. Did you mean: 'tokenizer_path'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 404, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\middleware\errors.py", line 184, in __call__
+    raise exc
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\middleware\errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\exceptions.py", line 93, in __call__
+    raise exc
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 65, in app
+    response = await func(request)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Fythonn\fyt\Main\Project_4\app.py", line 40, in predict_route
+    raise e
+  File "C:\Fythonn\fyt\Main\Project_4\app.py", line 36, in predict_route
+    obj = PredictionPipeline()
+  File "C:\Fythonn\fyt\Main\Project_4\src\textSummarizer\pipeline\prediction_pipeline.py", line 7, in __init__
+    self.config = ConfigurationManager().get_model_evaluation_config()
+  File "C:\Fythonn\fyt\Main\Project_4\src\textSummarizer\config\configuration.py", line 74, in get_model_evaluation_config
+    tokenizers_path = Path(config.tokenizers_path),
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'tokenizers_path'". Did you mean: 'tokenizer_path'?
+[2025-03-01 18:56:15,427: INFO: server: Shutting down]
+[2025-03-01 18:56:15,537: INFO: on: Waiting for application shutdown.]
+[2025-03-01 18:56:15,539: INFO: on: Application shutdown complete.]
+[2025-03-01 18:56:15,540: INFO: server: Finished server process [12256]]
+[2025-03-01 18:56:43,184: INFO: server: Started server process [13920]]
+[2025-03-01 18:56:43,188: INFO: on: Waiting for application startup.]
+[2025-03-01 18:56:43,189: INFO: on: Application startup complete.]
+[2025-03-01 18:56:43,191: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2025-03-01 18:56:55,555: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 18:56:55,562: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 18:56:55,565: INFO: common: created directory at: artifacts]
+[2025-03-01 18:56:55,566: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-01 18:56:55,569: ERROR: h11_impl: Exception in ASGI application
+]
+Traceback (most recent call last):
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 404, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\middleware\errors.py", line 184, in __call__
+    raise exc
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\middleware\errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\exceptions.py", line 93, in __call__
+    raise exc
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 65, in app
+    response = await func(request)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Fythonn\fyt\Main\Project_4\app.py", line 40, in predict_route
+    raise e
+  File "C:\Fythonn\fyt\Main\Project_4\app.py", line 36, in predict_route
+    obj = PredictionPipeline()
+  File "C:\Fythonn\fyt\Main\Project_4\src\textSummarizer\pipeline\prediction_pipeline.py", line 7, in __init__
+    self.config = ConfigurationManager().get_model_evaluation_config()
+  File "C:\Fythonn\fyt\Main\Project_4\src\textSummarizer\config\configuration.py", line 70, in get_model_evaluation_config
+    model_evaluation_config = ModelEvaluationConfig(
+TypeError: ModelEvaluationConfig.__init__() got an unexpected keyword argument 'tokenizer_path'
+[2025-03-01 18:58:34,390: INFO: server: Shutting down]
+[2025-03-01 18:58:34,497: INFO: on: Waiting for application shutdown.]
+[2025-03-01 18:58:34,499: INFO: on: Application shutdown complete.]
+[2025-03-01 18:58:34,500: INFO: server: Finished server process [13920]]
+[2025-03-01 18:59:12,928: INFO: config: PyTorch version 2.6.0 available.]
+[2025-03-01 19:09:48,042: INFO: config: PyTorch version 2.6.0 available.]
+[2025-03-01 19:15:09,740: INFO: config: PyTorch version 2.6.0 available.]
+[2025-03-01 19:15:14,594: INFO: main: Initiating data_ingestion pipeline]
+[2025-03-01 19:15:14,605: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 19:15:14,612: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 19:15:14,614: INFO: common: created directory at: artifacts]
+[2025-03-01 19:15:14,616: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-01 19:15:14,618: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip]
+[2025-03-01 19:15:15,026: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-03-01 19:15:15,027: INFO: stage_1_pipelinedataIngestion: Data Ingestion process completed successfully]
+[2025-03-01 19:15:15,028: INFO: main: Completed data_ingestion pipeline]
+[2025-03-01 19:15:15,029: INFO: main: logger is done]
+[2025-03-01 19:15:15,030: INFO: main: Initiating data_transformation pipeline]
+[2025-03-01 19:15:15,046: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 19:15:15,055: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 19:15:15,057: INFO: common: created directory at: artifacts]
+[2025-03-01 19:15:15,059: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-01 19:15:21,129: INFO: main: Completed data_transformation pipeline]
+[2025-03-01 19:15:21,130: INFO: main: logger is done]
+[2025-03-01 19:15:21,131: INFO: main: Initiating model_training pipeline]
+[2025-03-01 19:15:21,131: INFO: stage_3_pipelinemodeltraining: Pipeline stage 3: Model Training Initiated]
+[2025-03-01 19:15:21,142: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 19:15:21,150: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 19:15:21,152: INFO: common: created directory at: artifacts]
+[2025-03-01 19:15:21,154: INFO: common: created directory at: artifacts/model_trainer]
+[2025-03-01 20:57:25,004: INFO: server: Started server process [12748]]
+[2025-03-01 20:57:25,005: INFO: on: Waiting for application startup.]
+[2025-03-01 20:57:25,006: INFO: on: Application startup complete.]
+[2025-03-01 20:57:25,007: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2025-03-01 20:57:43,352: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 20:57:43,357: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 20:57:43,358: INFO: common: created directory at: artifacts]
+[2025-03-01 20:57:43,359: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-01 20:57:43,360: ERROR: h11_impl: Exception in ASGI application
+]
+Traceback (most recent call last):
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 404, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\middleware\errors.py", line 184, in __call__
+    raise exc
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\middleware\errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\exceptions.py", line 93, in __call__
+    raise exc
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 65, in app
+    response = await func(request)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Fythonn\fyt\Main\Project_4\app.py", line 40, in predict_route
+    raise e
+  File "C:\Fythonn\fyt\Main\Project_4\app.py", line 36, in predict_route
+    obj = PredictionPipeline()
+  File "C:\Fythonn\fyt\Main\Project_4\src\textSummarizer\pipeline\prediction_pipeline.py", line 7, in __init__
+    self.config = ConfigurationManager().get_model_evaluation_config()
+  File "C:\Fythonn\fyt\Main\Project_4\src\textSummarizer\config\configuration.py", line 70, in get_model_evaluation_config
+    model_evaluation_config = ModelEvaluationConfig(
+TypeError: ModelEvaluationConfig.__init__() got an unexpected keyword argument 'tokenizer_path'
+[2025-03-01 20:59:05,698: INFO: server: Shutting down]
+[2025-03-01 20:59:05,812: INFO: on: Waiting for application shutdown.]
+[2025-03-01 20:59:05,813: INFO: on: Application shutdown complete.]
+[2025-03-01 20:59:05,814: INFO: server: Finished server process [12748]]
+[2025-03-01 20:59:33,480: INFO: server: Started server process [1404]]
+[2025-03-01 20:59:33,483: INFO: on: Waiting for application startup.]
+[2025-03-01 20:59:33,486: INFO: on: Application startup complete.]
+[2025-03-01 20:59:33,488: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2025-03-01 20:59:49,134: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 20:59:49,142: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 20:59:49,144: INFO: common: created directory at: artifacts]
+[2025-03-01 20:59:49,146: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-01 20:59:49,149: ERROR: h11_impl: Exception in ASGI application
+]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'tokenizers_path'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'tokenizers_path'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'tokenizers_path'. Did you mean: 'tokenizer_path'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'tokenizers_path'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'tokenizers_path'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'tokenizers_path'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'tokenizers_path'. Did you mean: 'tokenizer_path'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 404, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\middleware\errors.py", line 184, in __call__
+    raise exc
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\middleware\errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\exceptions.py", line 93, in __call__
+    raise exc
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 65, in app
+    response = await func(request)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Fythonn\fyt\Main\Project_4\app.py", line 40, in predict_route
+    raise e
+  File "C:\Fythonn\fyt\Main\Project_4\app.py", line 36, in predict_route
+    obj = PredictionPipeline()
+  File "C:\Fythonn\fyt\Main\Project_4\src\textSummarizer\pipeline\prediction_pipeline.py", line 7, in __init__
+    self.config = ConfigurationManager().get_model_evaluation_config()
+  File "C:\Fythonn\fyt\Main\Project_4\src\textSummarizer\config\configuration.py", line 75, in get_model_evaluation_config
+    tokenizers_path= Path(config.tokenizers_path),
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'tokenizers_path'". Did you mean: 'tokenizer_path'?
+[2025-03-01 21:01:41,563: INFO: server: Shutting down]
+[2025-03-01 21:01:41,683: INFO: on: Waiting for application shutdown.]
+[2025-03-01 21:01:41,684: INFO: on: Application shutdown complete.]
+[2025-03-01 21:01:41,685: INFO: server: Finished server process [1404]]
+[2025-03-01 21:02:12,390: INFO: server: Started server process [26924]]
+[2025-03-01 21:02:12,394: INFO: on: Waiting for application startup.]
+[2025-03-01 21:02:12,396: INFO: on: Application startup complete.]
+[2025-03-01 21:02:12,398: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2025-03-01 21:02:35,685: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 21:02:35,693: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 21:02:35,696: INFO: common: created directory at: artifacts]
+[2025-03-01 21:02:35,698: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-01 21:02:35,701: ERROR: h11_impl: Exception in ASGI application
+]
+Traceback (most recent call last):
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\transformers\utils\hub.py", line 342, in cached_file
+    resolved_file = hf_hub_download(
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\huggingface_hub\utils\_validators.py", line 106, in _inner_fn
+    validate_repo_id(arg_value)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\huggingface_hub\utils\_validators.py", line 160, in validate_repo_id
+    raise HFValidationError(
+huggingface_hub.errors.HFValidationError: Repo id must use alphanumeric chars or '-', '_', '.', '--' and '..' are forbidden, '-' and '.' cannot start or end the name, max length is 96: 'artifacts\model_trainer\tokenizer'.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 404, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\middleware\errors.py", line 184, in __call__
+    raise exc
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\middleware\errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\exceptions.py", line 93, in __call__
+    raise exc
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 65, in app
+    response = await func(request)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Fythonn\fyt\Main\Project_4\app.py", line 40, in predict_route
+    raise e
+  File "C:\Fythonn\fyt\Main\Project_4\app.py", line 37, in predict_route
+    text = obj.predict(text)
+  File "C:\Fythonn\fyt\Main\Project_4\src\textSummarizer\pipeline\prediction_pipeline.py", line 12, in predict
+    tokenizer = AutoTokenizer.from_pretrained(self.config.tokenizer_path)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\transformers\models\auto\tokenization_auto.py", line 881, in from_pretrained
+    tokenizer_config = get_tokenizer_config(pretrained_model_name_or_path, **kwargs)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\transformers\models\auto\tokenization_auto.py", line 713, in get_tokenizer_config
+    resolved_config_file = cached_file(
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\transformers\utils\hub.py", line 408, in cached_file
+    raise EnvironmentError(
+OSError: Incorrect path_or_model_id: 'artifacts\model_trainer\tokenizer'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+[2025-03-01 21:09:57,046: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 21:09:57,054: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 21:09:57,057: INFO: common: created directory at: artifacts]
+[2025-03-01 21:09:57,059: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-01 21:09:57,063: ERROR: h11_impl: Exception in ASGI application
+]
+Traceback (most recent call last):
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\transformers\utils\hub.py", line 342, in cached_file
+    resolved_file = hf_hub_download(
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\huggingface_hub\utils\_validators.py", line 106, in _inner_fn
+    validate_repo_id(arg_value)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\huggingface_hub\utils\_validators.py", line 160, in validate_repo_id
+    raise HFValidationError(
+huggingface_hub.errors.HFValidationError: Repo id must use alphanumeric chars or '-', '_', '.', '--' and '..' are forbidden, '-' and '.' cannot start or end the name, max length is 96: 'artifacts\model_trainer\tokenizer'.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 404, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\middleware\errors.py", line 184, in __call__
+    raise exc
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\middleware\errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\exceptions.py", line 93, in __call__
+    raise exc
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\starlette\routing.py", line 65, in app
+    response = await func(request)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Fythonn\fyt\Main\Project_4\app.py", line 40, in predict_route
+    raise e
+  File "C:\Fythonn\fyt\Main\Project_4\app.py", line 37, in predict_route
+    text = obj.predict(text)
+  File "C:\Fythonn\fyt\Main\Project_4\src\textSummarizer\pipeline\prediction_pipeline.py", line 12, in predict
+    tokenizer = AutoTokenizer.from_pretrained(self.config.tokenizer_path)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\transformers\models\auto\tokenization_auto.py", line 881, in from_pretrained
+    tokenizer_config = get_tokenizer_config(pretrained_model_name_or_path, **kwargs)
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\transformers\models\auto\tokenization_auto.py", line 713, in get_tokenizer_config
+    resolved_config_file = cached_file(
+  File "C:\Fythonn\fyt\Main\Project_4\venv\lib\site-packages\transformers\utils\hub.py", line 408, in cached_file
+    raise EnvironmentError(
+OSError: Incorrect path_or_model_id: 'artifacts\model_trainer\tokenizer'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+[2025-03-01 21:11:55,522: INFO: server: Shutting down]
+[2025-03-01 21:11:55,631: INFO: on: Waiting for application shutdown.]
+[2025-03-01 21:11:55,633: INFO: on: Application shutdown complete.]
+[2025-03-01 21:11:55,634: INFO: server: Finished server process [26924]]
+[2025-03-01 21:16:45,209: INFO: config: PyTorch version 2.6.0 available.]
+[2025-03-01 21:16:50,091: INFO: main: Initiating data_ingestion pipeline]
+[2025-03-01 21:16:50,102: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 21:16:50,109: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 21:16:50,112: INFO: common: created directory at: artifacts]
+[2025-03-01 21:16:50,114: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-01 21:16:54,996: INFO: data_ingestion: File downloaded at artifacts/data_ingestion/data.zip]
+[2025-03-01 21:16:55,476: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-03-01 21:16:55,477: INFO: stage_1_pipelinedataIngestion: Data Ingestion process completed successfully]
+[2025-03-01 21:16:55,478: INFO: main: Completed data_ingestion pipeline]
+[2025-03-01 21:16:55,479: INFO: main: logger is done]
+[2025-03-01 21:16:55,479: INFO: main: Initiating data_transformation pipeline]
+[2025-03-01 21:16:55,495: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 21:16:55,506: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 21:16:55,509: INFO: common: created directory at: artifacts]
+[2025-03-01 21:16:55,512: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-01 21:17:15,532: INFO: main: Completed data_transformation pipeline]
+[2025-03-01 21:17:15,533: INFO: main: logger is done]
+[2025-03-01 21:17:15,534: INFO: main: Initiating model_training pipeline]
+[2025-03-01 21:17:15,535: INFO: stage_3_pipelinemodeltraining: Pipeline stage 3: Model Training Initiated]
+[2025-03-01 21:17:15,544: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\config\config.yaml loaded successfully]
+[2025-03-01 21:17:15,552: INFO: common: yaml file: C:\Fythonn\fyt\Main\Project_4\params.yaml loaded successfully]
+[2025-03-01 21:17:15,555: INFO: common: created directory at: artifacts]
+[2025-03-01 21:17:15,558: INFO: common: created directory at: artifacts/model_trainer]
